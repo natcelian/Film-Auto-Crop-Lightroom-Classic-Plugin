@@ -5,7 +5,7 @@ picture, straightens it and crops it, on negatives and positives, before or
 after Negative Lab Pro. It can also keep the film rebate in the crop, and it
 tells you which Border Buffer Negative Lab Pro needs for each frame.
 
-![Before and after: a camera-scanned negative with rebate and holder, and the same frame auto-cropped](docs/before-after.jpg)
+![Before and after: a camera-scanned negative with rebate and holder, and the same frame auto-cropped](docs/before-after.png)
 
 ## Features
 
@@ -50,7 +50,7 @@ Select your frames in the Library, then **Library > Plug-in Extras**
 - **Film Auto-Crop...** opens the options, then crops.
 - **Film Auto-Crop (last settings)** crops straight away with the last options.
 
-![The Film Auto-Crop options dialog](docs/control-panel.png)
+![The Film Auto-Crop options dialog](docs/control-panel.png.png)
 
 ### Crop to
 
